@@ -2,11 +2,16 @@
   "name": "ridermansb",
   "version": "0.0.1",
   "description": "A personal npm card for ridermansb (@ridermansb)",
-  "main": "index.js",
+  "main": "./src/index.js",
   "bin": {
-    "ridermansb": "./src/index.js"
+    "ridermansb": "./bin/index.js"
   },
+  "files": [
+    "bin/"
+  ],
   "scripts": {
+    "build": "rimraf bin/* && babel --source-maps -d bin/ src/",
+    "start": "npm run build -- --watch",
     "prepublish": "npm run -s build",
     "release": "npm run build -s && git tag $npm_package_version && git push --tags && npm publish --access=public"
   },
@@ -30,12 +35,20 @@
   },
   "homepage": "https://github.com/Ridermansb/ridermansb#readme",
   "devDependencies": {
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.1",
     "boxen": "^3.0.0",
-    "chalk": "^2.4.2"
+    "chalk": "^2.4.2",
+    "rimraf": "^2.6.3"
   },
   "dependencies": {
     "clear": "^0.1.0",
     "inquirer": "^6.2.2",
     "open": "0.0.5"
+  },
+  "engines": {
+    "node": ">=10",
+    "npm": ">=6.0.0"
   }
 }
