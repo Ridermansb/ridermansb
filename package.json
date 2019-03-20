@@ -13,7 +13,7 @@
     "build": "rimraf bin/* && babel --source-maps -d bin/ src/",
     "start": "npm run build -- --watch",
     "prepublish": "npm run -s build",
-    "release": "npm run build -s && git tag $npm_package_version && git push --tags && npm publish --access=public"
+    "release": "npm run build -s && git tag $npm_package_version && git push  && git push --tags && npm publish --access=public"
   },
   "repository": {
     "type": "git",

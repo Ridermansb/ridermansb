@@ -241,3 +241,4 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/windows,osx,node,linux,intellij+all,vscode
 
 bin/
+.npmrc
