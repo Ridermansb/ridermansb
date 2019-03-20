@@ -1,6 +1,6 @@
 {
   "name": "ridermansb",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "A personal npm card for ridermansb (@ridermansb)",
   "main": "./src/index.js",
   "bin": {
@@ -13,7 +13,7 @@
     "build": "rimraf bin/* && babel --source-maps -d bin/ src/",
     "start": "npm run build -- --watch",
     "prepublish": "npm run -s build",
-    "release": "npm run build -s && git tag $npm_package_version && git push  && git push --tags && npm publish --access=public"
+    "release": "npm run build -s && git tag $npm_package_version && git push --tags && npm publish --access=public"
   },
   "repository": {
     "type": "git",

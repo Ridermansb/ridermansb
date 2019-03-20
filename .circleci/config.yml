@@ -26,9 +26,7 @@ jobs:
       - run:
           name: Publish package
           command: |
-            git config --global user.email circleci@circleci
-            git config --global user.name CircleCI
-            npm version patch
+            npm version from-git
             npm run release
 
 workflows:
