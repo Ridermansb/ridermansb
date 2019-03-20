@@ -7,7 +7,8 @@
     "ridermansb": "./src/index.js"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "prepublish": "npm run -s build",
+    "release": "npm run build -s && git tag $npm_package_version && git push --tags && npm publish --access=public"
   },
   "repository": {
     "type": "git",
@@ -22,7 +23,7 @@
     "npx card",
     "business card"
   ],
-  "author": "@ridermansb",
+  "author": "Riderman de Sousa Barbosa <ridermansb@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Ridermansb/ridermansb/issues"
