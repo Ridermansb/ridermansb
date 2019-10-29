@@ -17,6 +17,19 @@ jobs:
       - run: npm ci
       - run: npm run build
 
+  release:
+    - steps:
+      - name: Create Release
+          id: create_release
+          uses: actions/create-release@master
+          env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          with:
+            tag_name: ${{ github.ref }}
+            release_name: Release ${{ github.ref }}
+            draft: false
+            prerelease: false
+
   publish-npm:
     needs: build
     runs-on: ubuntu-latest
