@@ -40,7 +40,7 @@ const data = {
   handle: chalk.white("@ridermansb"),
   work: `${chalk.white("Senior Font-end Developer at")} ${chalk
     .hex("#2b82b2")
-    .bold("MaxMilhas")}`,
+    .bold("e-Core")}`,
   blog: chalk.gray("https://medium.com/") + chalk.whiteBright("@ridermansb"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("ridermansb"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("~ridermansb"),
