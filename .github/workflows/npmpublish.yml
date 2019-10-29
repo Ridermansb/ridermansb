@@ -18,7 +18,7 @@ jobs:
       - run: npm run build
 
   release:
-    - steps:
+    steps:
       - name: Create Release
           id: create_release
           uses: actions/create-release@master
