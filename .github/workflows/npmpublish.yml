@@ -47,7 +47,7 @@ jobs:
       - name: Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_AUTH_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
+          NODE_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
         run: npm run release
 
       - name: Update deployment status (success)
