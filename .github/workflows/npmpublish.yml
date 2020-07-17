@@ -21,16 +21,38 @@ jobs:
     needs: build
     runs-on: ubuntu-latest
     steps:
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@master
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.ref }}
+          fetch-depth: 0
+      - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
+      - uses: chrnorm/deployment-action@releases/v1
+        name: Create GitHub deployment
+        id: deployment
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          description: Production builded from ${{ github.sha }} because of ${{ github.event_name }} by ${{ github.actor }}
+
+      - name: Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: npm run release
+
+      - name: Update deployment status (success)
+        if: success()
+        uses: chrnorm/deployment-status@releases/v1
         with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          draft: false
-          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          state: "success"
+          deployment_id: ${{ steps.deployment.outputs.deployment_id }}
+
+      - name: Update deployment status (failure)
+        if: failure()
+        uses: chrnorm/deployment-status@releases/v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          state: "failure"
+          deployment_id: ${{ steps.deployment.outputs.deployment_id }}
 
   publish-npm:
     needs: build

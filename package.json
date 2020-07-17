@@ -13,7 +13,7 @@
     "build": "rimraf bin/* && babel --source-maps -d bin/ src/",
     "start": "npm run build -- --watch",
     "prepublish": "npm run -s build",
-    "release": "npm run build -s && git tag $npm_package_version && npm publish --access=public"
+    "release": "semantic-release"
   },
   "repository": {
     "type": "git",
@@ -38,7 +38,12 @@
     "@babel/cli": "^7.10.5",
     "@babel/core": "^7.10.5",
     "@babel/preset-env": "^7.10.4",
-    "rimraf": "^3.0.2"
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/github": "^7.0.7",
+    "@semantic-release/npm": "^7.0.5",
+    "core-js": "^3.6.5",
+    "rimraf": "^3.0.2",
+    "semantic-release": "^17.1.1"
   },
   "dependencies": {
     "boxen": "^4.2.0",
