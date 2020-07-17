@@ -1,6 +1,5 @@
 {
   "name": "ridermansb",
-  "version": "1.0.0",
   "description": "A personal npm card for ridermansb (@ridermansb)",
   "main": "./src/index.js",
   "bin": {
