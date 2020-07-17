@@ -22,14 +22,19 @@ jobs:
       - name: Get npm cache directory
         id: npm-cache
         run: echo "::set-output name=dir::$(npm config get cache)"
-
       - name: Cache .npm directory
-        id: cache-node_modules
         uses: actions/cache@v2
         with:
           path: ${{ steps.npm-cache.outputs.dir }}
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: ${{ runner.os }}-node-
+      - name: Cache node_modules
+        id: cache-node_modules
+        uses: actions/cache@v2.0.0
+        with:
+          path: node_modules/
+          key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-node_modules
 
       - name: Install app dependencies
         if: steps.cache-node_modules.outputs.cache-hit != 'true'
@@ -47,7 +52,7 @@ jobs:
       - name: Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          NODE_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
+          NPM_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
         run: npm run release
 
       - name: Update deployment status (success)
