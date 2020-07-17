@@ -1,12 +1,15 @@
-It's me, @ridermansb!
+![](https://visitor-badge.glitch.me/badge?page_id=ridermansb.ridermansb)
 
-> based in [@bitandbang](https://github.com/bnb/bitandbang) work and [@gocastilla](https://github.com/gocastilla/gocastilla)
+<h2>It's me, @ridermansb!</h2>
+<p><em>Software Enginner at <a href="https://www.e-core.com/pt/">e-Core</a></br>
+</em></p>
 
-# Usage
-![Node.js Package](https://github.com/Ridermansb/ridermansb/workflows/Node.js%20Package/badge.svg)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRidermansb%2Fridermansb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FRidermansb%2Fridermansb?ref=badge_shield)
 
-Via npx:
+> I'm curious, enthusiastic and student most of the time, like the rest of the time to write code, especially in Javascript. 
+
+-----------
+
+A little more about me... with npm installed, just type
 
 ```
 npx ridermansb
@@ -14,8 +17,15 @@ npx ridermansb
 
 ![](Screen%20Shot.png)
 
-Not including how to use it globally because I'm not sure why you'd want this as a global command. That'd be creepy.
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-## License
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FRidermansb%2Fridermansb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FRidermansb%2Fridermansb?ref=badge_large)
+
+![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=ridermansb&show_icons=true&hide_border=true)
