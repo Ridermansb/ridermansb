@@ -10,22 +10,32 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 12
-      - run: npm ci
-      - run: npm run build
-
-  release:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
       - uses: actions/checkout@v2
         with:
           ref: ${{ github.ref }}
           fetch-depth: 0
       - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
+      - uses: actions/setup-node@v2
+        with:
+          node-version: 12
+
+      - name: Get npm cache directory
+        id: npm-cache
+        run: echo "::set-output name=dir::$(npm config get cache)"
+      - name: Cache .npm directory
+        id: cache-node_modules
+        uses: actions/cache@v2
+        with:
+          path: ${{ steps.npm-cache.outputs.dir }}
+          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.os }}-node-
+
+      - name: Install app dependencies
+        if: steps.cache-node_modules.outputs.cache-hit != 'true'
+        run: npm ci --prefer-offline --no-audit --progress=false
+
+      - run: npm run build
+
       - uses: chrnorm/deployment-action@releases/v1
         name: Create GitHub deployment
         id: deployment
@@ -36,6 +46,7 @@ jobs:
       - name: Semantic Release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NODE_AUTH_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
         run: npm run release
 
       - name: Update deployment status (success)
@@ -53,31 +64,3 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           state: "failure"
           deployment_id: ${{ steps.deployment.outputs.deployment_id }}
-
-  publish-npm:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 12
-          registry-url: https://registry.npmjs.org/
-      - run: npm ci
-      - run: npm run release
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NODE_AUTH_TOKEN}}
-
-  publish-gpr:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v1
-      - uses: actions/setup-node@v1
-        with:
-          node-version: 12
-          registry-url: https://npm.pkg.github.com/
-      - run: npm ci
-      - run: npm run release
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.GITHUB_AUTH_TOKEN}}
