@@ -1,6 +1,6 @@
 {
   "name": "ridermansb",
-  "version": "0.0.7",
+  "version": "1.0.0",
   "description": "A personal npm card for ridermansb (@ridermansb)",
   "main": "./src/index.js",
   "bin": {
@@ -35,16 +35,16 @@
   },
   "homepage": "https://github.com/Ridermansb/ridermansb#readme",
   "devDependencies": {
-    "@babel/cli": "^7.10.1",
-    "@babel/core": "^7.10.1",
-    "@babel/preset-env": "^7.10.1",
-    "rimraf": "^2.6.3"
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/preset-env": "^7.10.4",
+    "rimraf": "^3.0.2"
   },
   "dependencies": {
     "boxen": "^4.2.0",
-    "chalk": "^4.0.0",
+    "chalk": "^4.1.0",
     "clear": "^0.1.0",
-    "inquirer": "^7.1.0",
+    "inquirer": "^7.3.2",
     "open": "^7.0.4"
   },
   "engines": {

@@ -10,7 +10,7 @@ const open = require("open");
 
 clear();
 
-var prompt = inquirer.createPromptModule();
+const prompt = inquirer.createPromptModule();
 
 const questions = [
   {
