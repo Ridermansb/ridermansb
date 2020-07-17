@@ -15,13 +15,14 @@ jobs:
           ref: ${{ github.ref }}
           fetch-depth: 0
       - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v1
         with:
           node-version: 12
 
       - name: Get npm cache directory
         id: npm-cache
         run: echo "::set-output name=dir::$(npm config get cache)"
+
       - name: Cache .npm directory
         id: cache-node_modules
         uses: actions/cache@v2
