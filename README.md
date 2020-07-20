@@ -15,7 +15,7 @@ A little more about me... with npm installed, just type
 npx ridermansb
 ```
 
-![](Screen%20Shot.png)
+<img alt="screenshot" src="Screen%20Shot.png" />
 
 **Languages and Tools:**  
 
