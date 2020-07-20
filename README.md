@@ -15,7 +15,7 @@ A little more about me... with npm installed, just type
 npx ridermansb
 ```
 
-<img alt="screenshot" src="Screen%20Shot.png" />
+<img alt="screenshot" src="https://github.com/Ridermansb/ridermansb/blob/master/Screen%20Shot.png?raw=true" />
 
 **Languages and Tools:**  
 
