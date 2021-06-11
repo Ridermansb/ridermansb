@@ -16,7 +16,7 @@ const questions = [
   {
     type: "list",
     name: "action",
-    message: "What you want to do?",
+    message: "What do you want to do?",
     choices: [
       {
         name: `Send me an ${chalk.green.bold("email")}?`,
