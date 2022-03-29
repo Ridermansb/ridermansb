@@ -39,8 +39,8 @@ const data = {
   name: chalk.bold.green("        Riderman de Sousa Barbosa"),
   handle: chalk.white("@ridermansb"),
   work: `${chalk.white("Senior Front-end Developer at")} ${chalk
-    .hex("#2b82b2")
-    .bold("e-Core")}`,
+    .hex("#341f7c")
+    .bold("SecurityScorecard")}`,
   blog: chalk.gray("https://medium.com/") + chalk.whiteBright("@ridermansb"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("ridermansb"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("~ridermansb"),
