@@ -13,7 +13,6 @@
     "start": "npm run build -- --watch",
     "prepublish": "npm run -s build",
     "release": "semantic-release",
-    "commit": "cz",
     "prepare": "husky install"
   },
   "repository": {
