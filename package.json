@@ -12,7 +12,9 @@
     "build": "rimraf bin/* && babel --source-maps -d bin/ src/",
     "start": "npm run build -- --watch",
     "prepublish": "npm run -s build",
-    "release": "semantic-release"
+    "release": "semantic-release",
+    "commit": "cz",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -40,7 +42,10 @@
     "@semantic-release/exec": "^6.0.3",
     "@semantic-release/github": "^8.0.4",
     "@semantic-release/npm": "^9.0.1",
+    "commitizen": "^4.2.4",
     "core-js": "^3.21.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^7.0.4",
     "rimraf": "^3.0.2",
     "semantic-release": "^19.0.2"
   },
@@ -54,5 +59,10 @@
   "engines": {
     "node": ">=16",
     "npm": ">=6.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
   }
 }
