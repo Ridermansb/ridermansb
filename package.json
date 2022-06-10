@@ -46,7 +46,7 @@
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^7.0.4",
     "rimraf": "^3.0.2",
-    "semantic-release": "^19.0.2"
+    "semantic-release": "^19.0.3"
   },
   "dependencies": {
     "boxen": "^4.2.0",
