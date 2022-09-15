@@ -48,6 +48,7 @@ const data = {
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("ridermansb"),
   web: chalk.cyan("https://about.me/ridermansb"),
   npx: chalk.red("npx") + " " + chalk.white("ridermansb"),
+  wakatime: chalk.gray("https://wakatime.com/") + chalk.black("@ridermansb"),
 
   labelWork: chalk.white.bold("       Work:"),
   labelBlog: chalk.white.bold("     Medium:"),
@@ -56,7 +57,8 @@ const data = {
   labelGitHub: chalk.white.bold("     GitHub:"),
   labelLinkedIn: chalk.white.bold("   LinkedIn:"),
   labelWeb: chalk.white.bold("        Web:"),
-  labelCard: chalk.white.bold("       Card:")
+  labelCard: chalk.white.bold("       Card:"),
+  labelWakatime: chalk.white.bold("   Wakatime:")
 };
 
 const me = boxen(
@@ -70,6 +72,7 @@ const me = boxen(
     `${data.labelGitHub}  ${data.github}`,
     `${data.labelLinkedIn}  ${data.linkedin}`,
     `${data.labelWeb}  ${data.web}`,
+    `${data.labelWakatime}  ${data.wakatime}`,
     ``,
     `${data.labelCard}  ${data.npx}`,
     ``,
