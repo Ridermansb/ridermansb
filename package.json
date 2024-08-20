@@ -39,14 +39,14 @@
     "@babel/core": "^7.17.8",
     "@babel/preset-env": "^7.16.11",
     "@semantic-release/exec": "^6.0.3",
-    "@semantic-release/github": "^8.0.4",
-    "@semantic-release/npm": "^9.0.1",
+    "@semantic-release/github": "^10.1.7",
+    "@semantic-release/npm": "^12.0.1",
     "commitizen": "^4.2.4",
     "core-js": "^3.21.1",
     "cz-conventional-changelog": "^3.3.0",
     "husky": "^7.0.4",
     "rimraf": "^3.0.2",
-    "semantic-release": "^19.0.3"
+    "semantic-release": "^24.1.0"
   },
   "dependencies": {
     "boxen": "^4.2.0",

@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=ridermansb.ridermansb) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![NPM Downloads](https://img.shields.io/npm/dm/ridermansb)
 [![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@de65bb6a-656d-4719-97a5-9ed3c5797ec7)
 
 <h2>It's me, @ridermansb!</h2>
