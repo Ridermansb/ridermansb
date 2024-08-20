@@ -23,16 +23,16 @@ const questions = [
         value: () => {
           open("mailto:ridermansb@gmail.com");
           console.log("\nDone, see you soon.\n");
-        }
+        },
       },
       {
         name: "Just quit.",
         value: () => {
           console.log("Ok, bye.\n");
-        }
-      }
-    ]
-  }
+        },
+      },
+    ],
+  },
 ];
 
 const data = {
@@ -46,7 +46,7 @@ const data = {
   npm: chalk.gray("https://npmjs.com/") + chalk.red("~ridermansb"),
   github: chalk.gray("https://github.com/") + chalk.green("ridermansb"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("ridermansb"),
-  web: chalk.cyan("https://about.me/ridermansb"),
+  web: chalk.cyan("https://ridermansb.dev/"),
   npx: chalk.red("npx") + " " + chalk.white("ridermansb"),
   wakatime: chalk.gray("https://wakatime.com/") + chalk.black("@ridermansb"),
 
@@ -58,7 +58,7 @@ const data = {
   labelLinkedIn: chalk.white.bold("   LinkedIn:"),
   labelWeb: chalk.white.bold("        Web:"),
   labelCard: chalk.white.bold("       Card:"),
-  labelWakatime: chalk.white.bold("   Wakatime:")
+  labelWakatime: chalk.white.bold("   Wakatime:"),
 };
 
 const me = boxen(
@@ -79,25 +79,24 @@ const me = boxen(
     `${chalk.italic(
       "I'm curious, enthusiastic and student most of the time."
     )}`,
-    `${chalk.italic("The rest of the time I write code that others can read.")}`
+    `${chalk.italic(
+      "The rest of the time I write code that others can read."
+    )}`,
   ].join("\n"),
   {
     margin: 1,
-    float: 'center',
+    float: "center",
     padding: 1,
     borderStyle: "single",
-    borderColor: "green"
+    borderColor: "green",
   }
 );
 
 console.log(me);
 const tip = [
-  `Tip: Try ${chalk.cyanBright.bold(
-    "cmd/ctrl + click"
-  )} on the links above`,
-  '',
+  `Tip: Try ${chalk.cyanBright.bold("cmd/ctrl + click")} on the links above`,
+  "",
 ].join("\n");
 console.log(tip);
 
-
-prompt(questions).then(answer => answer.action());
+prompt(questions).then((answer) => answer.action());

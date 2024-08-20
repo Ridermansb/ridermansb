@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@de65bb6a-656d-4719-97a5-9ed3c5797ec7)
 
 <h2>It's me, @ridermansb!</h2>
-<p><em>Software Enginner at <a href="https://securityscorecard.com/">Security Scorecard</a></br>
+<p><em>Staff Software Enginner</br>
 </em></p>
 
 <a
