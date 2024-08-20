@@ -22,8 +22,8 @@ jobs:
           cache: "npm"
           node-version-file: ".nvmrc"
 
-      - uses: npm -v
-      - uses: node -v
+      - run: npm -v
+      - run: node -v
 
       - name: Install app dependencies
         run: npm ci
