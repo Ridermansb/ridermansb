@@ -1,4 +1,4 @@
-name: Node.js Package
+name: Publish Node.js Package
 
 on:
   push:
@@ -9,45 +9,31 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      deployments: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
         with:
           ref: ${{ github.ref }}
           fetch-depth: 0
       - run: git fetch --depth=1 origin +refs/tags/*:refs/tags/*
-      - uses: actions/setup-node@v1
+      - uses: actions/setup-node@v4
         with:
-          node-version: 16
-
-      - name: Get npm cache directory
-        id: npm-cache
-        run: echo "::set-output name=dir::$(npm config get cache)"
-      - name: Cache .npm directory
-        uses: actions/cache@v2
-        with:
-          path: ${{ steps.npm-cache.outputs.dir }}
-          key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: ${{ runner.os }}-node-
-      - name: Cache node_modules
-        id: cache-node_modules
-        uses: actions/cache@v2.0.0
-        with:
-          path: node_modules/
-          key: ${{ runner.os }}-node_modules-${{ hashFiles('**/package-lock.json') }}
-          restore-keys: ${{ runner.os }}-node_modules
+          cache: "npm"
+          node-version-file: ".nvmrc"
 
       - name: Install app dependencies
-        if: steps.cache-node_modules.outputs.cache-hit != 'true'
         run: npm ci --prefer-offline --no-audit --progress=false
 
       - run: npm run build
 
-      - uses: chrnorm/deployment-action@releases/v1
+      - uses: chrnorm/deployment-action@releases/v2
         name: Create GitHub deployment
         id: deployment
         with:
           token: ${{ secrets.GH_TOKEN }}
           description: Production builded from ${{ github.sha }} because of ${{ github.event_name }} by ${{ github.actor }}
+          environment-url: https://www.npmjs.com/package/ridermansb
 
       - name: Semantic Release
         env:
@@ -58,16 +44,18 @@ jobs:
 
       - name: Update deployment status (success)
         if: success()
-        uses: chrnorm/deployment-status@releases/v1
+        uses: chrnorm/deployment-status@releases/v2
         with:
           token: ${{ secrets.GH_TOKEN }}
           state: "success"
-          deployment_id: ${{ steps.deployment.outputs.deployment_id }}
+          deployment-id: ${{ steps.deployment.outputs.deployment_id }}
+          environment-url: https://www.npmjs.com/package/ridermansb
 
       - name: Update deployment status (failure)
         if: failure()
-        uses: chrnorm/deployment-status@releases/v1
+        uses: chrnorm/deployment-status@releases/v2
         with:
           token: ${{ secrets.GH_TOKEN }}
           state: "failure"
-          deployment_id: ${{ steps.deployment.outputs.deployment_id }}
+          deployment-id: ${{ steps.deployment.outputs.deployment_id }}
+          environment-url: https://www.npmjs.com/package/ridermansb
