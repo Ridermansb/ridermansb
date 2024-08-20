@@ -56,7 +56,7 @@
     "open": "^7.0.4"
   },
   "engines": {
-    "node": ">=20"
+    "node": "20"
   },
   "config": {
     "commitizen": {
