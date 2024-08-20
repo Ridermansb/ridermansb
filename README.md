@@ -1,5 +1,5 @@
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![NPM Downloads](https://img.shields.io/npm/dm/ridermansb)
-[![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@de65bb6a-656d-4719-97a5-9ed3c5797ec7)
+[![Publish Node.js Package](https://github.com/Ridermansb/ridermansb/actions/workflows/npmpublish.yml/badge.svg)](https://github.com/Ridermansb/ridermansb/actions/workflows/npmpublish.yml) [![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@de65bb6a-656d-4719-97a5-9ed3c5797ec7)
 
 <h2>It's me, @ridermansb!</h2>
 <p><em>Staff Software Enginner</br>
