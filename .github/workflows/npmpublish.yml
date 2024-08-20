@@ -23,7 +23,7 @@ jobs:
           node-version-file: ".nvmrc"
 
       - name: Install app dependencies
-        run: npm ci --prefer-offline --no-audit --progress=false
+        run: npm ci
 
       - run: npm run build
 
