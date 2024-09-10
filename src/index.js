@@ -38,9 +38,7 @@ const questions = [
 const data = {
   name: chalk.bold.green("        Riderman de Sousa Barbosa"),
   handle: chalk.white("@ridermansb"),
-  work: `${chalk.white("Senior Front-end Developer at")} ${chalk
-    .hex("#341f7c")
-    .bold("SecurityScorecard")}`,
+  work: `${chalk.white("Staff Engineering ")}`,
   website: chalk.white.bold("https://ridermansb.dev/"),
   blog: chalk.gray("https://medium.com/") + chalk.whiteBright("@ridermansb"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("ridermansb"),
