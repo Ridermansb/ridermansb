@@ -13,7 +13,8 @@
     "start": "npm run build -- --watch",
     "prepublish": "npm run -s build",
     "release": "semantic-release",
-    "prepare": "husky install"
+    "prepare": "husky",
+    "commit": "cz"
   },
   "repository": {
     "type": "git",
@@ -44,7 +45,7 @@
     "commitizen": "^4.2.4",
     "core-js": "^3.21.1",
     "cz-conventional-changelog": "^3.3.0",
-    "husky": "^7.0.4",
+    "husky": "^9.1.7",
     "rimraf": "^3.0.2",
     "semantic-release": "^24.1.0"
   },

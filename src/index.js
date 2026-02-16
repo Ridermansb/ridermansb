@@ -38,14 +38,14 @@ const questions = [
 const data = {
   name: chalk.bold.green("        Riderman de Sousa Barbosa"),
   handle: chalk.white("@ridermansb"),
-  work: `${chalk.white("Staff Engineering ")}`,
+  work: `${chalk.white("Staff Software Engineering ")}`,
   website: chalk.white.bold("https://ridermansb.dev/"),
   blog: chalk.gray("https://medium.com/") + chalk.whiteBright("@ridermansb"),
   twitter: chalk.gray("https://twitter.com/") + chalk.cyan("ridermansb"),
   npm: chalk.gray("https://npmjs.com/") + chalk.red("~ridermansb"),
   github: chalk.gray("https://github.com/") + chalk.green("ridermansb"),
   linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("ridermansb"),
-  aboutMe: chalk.cyan("https://about.me/ridermansb"),
+  aboutMe: chalk.cyan("https://about.me/ridermansb/"),
   npx: chalk.red("npx") + " " + chalk.white("ridermansb"),
   wakatime: chalk.gray("https://wakatime.com/") + chalk.black("@ridermansb"),
 

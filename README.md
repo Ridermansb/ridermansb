@@ -1,3 +1,6 @@
+<!-- my-badges start -->
+<!-- my-badges end -->
+
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![NPM Downloads](https://img.shields.io/npm/dm/ridermansb)
 [![Publish Node.js Package](https://github.com/Ridermansb/ridermansb/actions/workflows/npmpublish.yml/badge.svg)](https://github.com/Ridermansb/ridermansb/actions/workflows/npmpublish.yml) [![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@de65bb6a-656d-4719-97a5-9ed3c5797ec7)
 
@@ -42,3 +45,5 @@ npx ridermansb
 
 ![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=ridermansb&show_icons=true&hide_border=true)
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridermansb&layout=compact&langs_count=8"/>
+
+<!-- https://getpantry.cloud/ for data store -->
