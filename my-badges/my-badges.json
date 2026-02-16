@@ -1,0 +1,247 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/Ridermansb/fake-gen/commit/ac48649ab2b6463c8338a9c728c1ea2123529c2f\"><strong>a</strong>c48649ab2b6463c8338a9c728c1ea2123529c2f</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/Ridermansb/wox.skype/commit/ab752b41df77769eae2140c6e846b258b34adce5\"><strong>ab</strong>752b41df77769eae2140c6e846b258b34adce5</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "abc-commit",
+    "tier": 3,
+    "desc": "One of my commit sha starts with \"abc\".",
+    "body": "- <a href=\"https://github.com/Ridermansb/ridermansb/commit/abc5acfed3c51c813e9cb026d8492c12b3798e06\"><strong>abc</strong>5acfed3c51c813e9cb026d8492c12b3798e06</a>",
+    "image": "https://my-badges.github.io/my-badges/abc-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/sailsGetStarter/commit/e47c750434261ea8d7e4ec95054426c90a447550\">e47c750</a>\n- <a href=\"https://github.com/Ridermansb/sailsGetStarter/commit/2edc99114e0dc9b55c77ecd2cfe5abab56bc26aa\">2edc991</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6bbceffd6a8246535bb83f399847ccafe5dda1bf\">6bbceffd6a8246535bb83f399847c<strong>cafe</strong>5dda1bf</a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/vite-monorepo-ci/commit/eccaa883fcc7fd3e803ef74107ca4998b687338d\">eccaa88</a>: chore: add logs\n\nSigned-off-by: Riderman de Sousa Barbosa <725337+Ridermansb@users.noreply.github.com>",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/newrelease/commit/a5428bfb003cd7c6a994642bff0dac55b65ad340\">a5428bf</a>\n- <a href=\"https://github.com/Ridermansb/newrelease/commit/06613df128587b381756474d5699f9e8e3e41373\">06613df</a>\n- <a href=\"https://github.com/Ridermansb/vue-gmaps/commit/315822f43b59d5e17bc65fe35857fad80a95be34\">315822f</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/Ridermansb/invoice-generator/commit/786b2e3e788d4768deadbac3a91c9c2dd09ac80e\">786b2e3e788d4768<strong>dead</strong>bac3a91c9c2dd09ac80e</a>\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/4706ba0d1a2ae0bf96f3648abdead4aa9379c7a4\">4706ba0d1a2ae0bf96f3648ab<strong>dead</strong>4aa9379c7a4</a>\n- <a href=\"https://github.com/Ridermansb/ridermansb/commit/bde4430786971e49a3a3deadc1b0269846c25da2\">bde4430786971e49a3a3<strong>dead</strong>c1b0269846c25da2</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "delorean",
+    "tier": 0,
+    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/webpackBowerStarter/commit/720cd3e1259d3df027744d3cd25652359529c540\">720cd3e</a>\n- <a href=\"https://github.com/Ridermansb/webpackBowerStarter/commit/ac7b6c9049f6b37b41f41e55b6f1d97d77de09f8\">ac7b6c9</a>",
+    "image": "https://my-badges.github.io/my-badges/delorean.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 409 times)\n2. fix (used 352 times)\n3. bump (used 314 times)\n4. merge (used 227 times)\n5. pull (used 189 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/chatfood/commit/b1a08badee79f85a22afe4ecad521f68922c5998\">b1a08ba</a>: Fix tests\n- <a href=\"https://github.com/Ridermansb/chatfood/commit/f47f3b19ce7fa055034f18e9d7399e22cc07b27c\">f47f3b1</a>: Fix tests",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/5a2a8b05f0bd3f3383cd57c0cf676d1746b5fba9\">5a2a8b0</a>: fix(actions): publish as prerelease\n\nSemantic release will publish as prerelease\n\nfix #5\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6e58fb81b6b994f3956f31dfaf065e906577c1cf\">6e58fb8</a>: fix(actions): remove comments\n\nremove unsed comments from action deploy\n\nfix #13\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/d6f6bb278c64b7f948941003082c695e3f80bd91\">d6f6bb2</a>: fix(actions): trigger deploy on milestone is closed\n\nOnly trigger deployment when any milestone is close\n\nfix #9\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/a8e6a99ab35c966b3c75846717e6266844f7056c\">a8e6a99</a>: fix(actions): add version on file name in release\n\nAdd version on filename in release for when you daownload it .. comes with version\n\nfix #6",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "fix-5",
+    "tier": 4,
+    "desc": "I did 5 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/265d95bf20d81fbf080b6502b40b2bc0a070901a\">265d95b</a>: Fix versin\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/0ffbda6b91cacbc75ccc1ae34581089eb19c25ab\">0ffbda6</a>: Fix version\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/ac95bafb37bd3bc30bbb73ec3a4dc9708f6d0510\">ac95baf</a>: Fix deploy functions\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/5162a567054ab5b5ea3d361ff203f4e5064f5cd4\">5162a56</a>: Fix version\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/63c17d141c9bedf003253fde262875e8c52b3b5b\">63c17d1</a>: Fix version",
+    "image": "https://my-badges.github.io/my-badges/fix-5.png"
+  },
+  {
+    "id": "fix-6",
+    "tier": 5,
+    "desc": "I did 6 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/74e41bb3b7517960de4164e18d224e9a648818a0\">74e41bb</a>: fix(actions): fix wrong name on action\n\nfix #2 and fix #3\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/0e5a98ddf787ee7a1cf0fc1aa402be7a1d3c6791\">0e5a98d</a>: fix: remove version from package\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/5386cbecda5130d75eb57d103a5a0950054b1fa6\">5386cbe</a>: fix(actions): fix wrong YML format\n\nFix format for YML and add tools to help commit in correct format\n\nfix #1\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/9e084ab457dd8bbcbd4348f23e894a813a2a794c\">9e084ab</a>: fix(ci): remove prerelase\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6227e49f0d7d5e2c8c1252adfd7961f07aae2fbf\">6227e49</a>: fix(ci): zip dist folders\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6b01b147657cf8b6b5084247aa72422294c6f71d\">6b01b14</a>: fix(ci): add pre-release branches",
+    "image": "https://my-badges.github.io/my-badges/fix-6.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 86 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/1eba2e23a257e3df8fa1802f564abcc0a5aa28b3\">1eba2e2</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/dc92a56a63b0e342df013f599a6cbad33c6fcc22\">dc92a56</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/9fa36a00b2f611ec33134137b3759c25fe2a462b\">9fa36a0</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6e530397ca5f0a072d946f76e106fa6701338149\">6e53039</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/5b1ce2496feeec58700a86528931dc7661ae8e4b\">5b1ce24</a>: Fix deployment [skip-ci]\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/a308dd9767fa5252be5b19d243920caeb4f90edf\">a308dd9</a>: Fix deployment [skip-ci]\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/d94bd5f3337ce4afe7a60e9f1eed6b0c3a087296\">d94bd5f</a>: Fix deployment [skip-ci]\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/53d463719f3213b2fc33b750086129b938694ef8\">53d4637</a>: Fix deployment [skip-ci]\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/0e2581c87c07855be5acb9b1c229f439d4a235ef\">0e2581c</a>: Fix deployment [skip-ci]\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/54faea5288ebbfd7e5d1946fddbaee90c07ae93e\">54faea5</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/c320e5729b79d86cff78c0446a1a890e42234038\">c320e57</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/1ccabb9de9bc9cfabb779992cf2e3e2bb6580b2a\">1ccabb9</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/d122de2a249c7b14d14477f007d95fc3806504ea\">d122de2</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/ab5fbcb55ef667e41a9dcb1df170acb0784c8261\">ab5fbcb</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/010aa4e570c9505f328e8f8262a90fa9df16c9aa\">010aa4e</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6f95f267684d8d45caa26316d3e2119af073075c\">6f95f26</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/ceb1a52e76b9cef004c2a5e6a2481e224ea326fc\">ceb1a52</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/38768698acda692b17149119a191c2968892d30c\">3876869</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/fff7651b7ed520986241e476dd1f002fb5cdebae\">fff7651</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/5b3e7b460cd8c52fa7103f23308cfa384b1db355\">5b3e7b4</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/c37d87611f1e12b93a83a57fea40389c831251ee\">c37d876</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/906dc9c223c804c7fe81bcd039baf758f8a08172\">906dc9c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/46edc0e95a8543b9d3089017e2b11e3c6c40175c\">46edc0e</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/9a3e07b2c7e63c8096c8fe774343004894f08f36\">9a3e07b</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/16042ab569f21c45bf44baabdd5fdf3ad35b7556\">16042ab</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/08bb8d53883c405060ac3eea5dc209a30383cd45\">08bb8d5</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/37f242caad3f7a89ede8973470153a62265fd48d\">37f242c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/fc9cb91e8f3ccc86502fb9bd1bac3b754acb8377\">fc9cb91</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/96e7406e8384c8ae2c6c8d2ab3ba2099d06b4403\">96e7406</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/4207bcd91c58eced100138181d5ff5fa1f0e542f\">4207bcd</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/daf1efe9b2066c54a98f871d8f12e53a89f0f6aa\">daf1efe</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/4733addb28611b60e26aebfaddb893fc2d54d40b\">4733add</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/c244aa84186bac1c6c04a7d3c785342011a23040\">c244aa8</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/b0def0f0008955df6067dfc0968004e3d8b81e98\">b0def0f</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/a6a89775ed12fe40e4d10ed82d4270a2472e9e86\">a6a8977</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/b606a7ca5f19eca3e49eb325c02fa12d30d6d219\">b606a7c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/4bb99b7c5a1b4cca4343f406b1b084da3a3235c9\">4bb99b7</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/bc0f12c5bccbdec72ea7a97a6096d9a382b18355\">bc0f12c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/ecd30517304e5396ceb0bdde718225757b9ad1e8\">ecd3051</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/e0434d6b73294b2d54b8d07b7aceeb2e6e241921\">e0434d6</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/fb4db8ab7a36b60040e8f5b8b0b9df69d2e3b3ab\">fb4db8a</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/9f7bc23b011a776e59227e5cde7f1b174b579e6e\">9f7bc23</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/3fab96eba22f0f2f056e2e388a0234a063114e3c\">3fab96e</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6b618a4cf22fe3dfb2fcc44b30565bbd21a01218\">6b618a4</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/f7769a0a9903994ece524e312e494952387fcc38\">f7769a0</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/d42469cf7318688d58037eaa75c000d93c4108b1\">d42469c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/2fbdd236de2224b9dc3e5e1652d62272f25f8b84\">2fbdd23</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/441b3c9631f8da2d57c8c8e876d62beaaecce4c9\">441b3c9</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/af0897c1c3bad9d7c46b9ec77e6566d20ca295a7\">af0897c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/dd6b7948a4d7b204e1ce874fdb810a89ed05ff32\">dd6b794</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/5bf9320327a0fdb4f577a447252733c752d2be62\">5bf9320</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/3d8cb33c2568cf868ebb022ed4a9d38f0dc4d538\">3d8cb33</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/2116f7cb9797e9240e7bf26a85cdc849c45aa86e\">2116f7c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/b234748221888453302a975d5b24039ad3c4f932\">b234748</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/35de019a4a7369bcb1ca10e3eccd4049782b5c89\">35de019</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/071e896710b57be45d656e82e973fdfa8214d533\">071e896</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/9028e45644bf51ede6e6edc7967bac71ede85561\">9028e45</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/3f4dfe016dda97cf9469d13ae15d4ac5ad604262\">3f4dfe0</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/8b416fb7cb431b886784f0a2dff892106bd652cc\">8b416fb</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/8b3f740aa1fc8866c3f8346e4050dad4657ea98d\">8b3f740</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/035651b4b5e0ddbb6f07de2d8b83b9cec4a0113c\">035651b</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/eaec29088052d79abc7ef973d911b21782020165\">eaec290</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/8a702f74fcc28e89a5038a5ee44ff55fe8e348fc\">8a702f7</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/244e81c5807262ef6d8d8647f25cc5dd89841be1\">244e81c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/e6954cc151fc80c9070cfac85dff0a4c3b466bfc\">e6954cc</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/bfe984411c73cb397de9e2873ebb21d0d61e5d41\">bfe9844</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/4706ba0d1a2ae0bf96f3648abdead4aa9379c7a4\">4706ba0</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/1251285aa4abffbe90913afdc54faeacdd45c96a\">1251285</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/8998af40d1d6cd294302a5b1d6705559c618f7f4\">8998af4</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/176640bb4ea1ac4e954832154624a80291b73d35\">176640b</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/0495a6f7f9298acf71e10336ae2752f8ec2f520a\">0495a6f</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/aa3e527f2c238abed64471b7ae823d64f6c4af7e\">aa3e527</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/c8485f8c07914be4cbf7ea16620f954b20d96914\">c8485f8</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/c7792fb74bf5d2c713d2ab363eceaafe1bae1cc5\">c7792fb</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/450e92f0bdec66151ee37fe14720541675e61bd3\">450e92f</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/afac86569456ea36b2dd6a560b764d626a645023\">afac865</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6ffea2c616ee1e44dd199339f060f3519cffccc1\">6ffea2c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/8d49478185efb7483bdef767325592f4b6631972\">8d49478</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6bbceffd6a8246535bb83f399847ccafe5dda1bf\">6bbceff</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/14c294c5979fcd4e006eda6203ed55e2f29a914d\">14c294c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/175569ce5b7548ea691b638b5b69e22fbf6c2c60\">175569c</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/8d01ba6d1de771020b8af576a9b879b679a4f5fe\">8d01ba6</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/5d044e2c7a9deb101f0977c55435593c1a1da58e\">5d044e2</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/928947d600dcd2bb97c7d9c31843eb4e90ffd5af\">928947d</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/db31312d1d56bab84a2c2a70154632a1c8aa8922\">db31312</a>: Fix deployment\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/dc4cf9472188d7ef008bb0c5f77fe7c9b734dddd\">dc4cf94</a>: Fix deployment",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/face-ai/commit/fd4409bb78d2ecb591e27f5489de2faaa3416d5e\">fd4409b</a>: Fix size video\n- <a href=\"https://github.com/Ridermansb/face-ai/commit/b1f643fa0be9ddf1bf9ae3fb3e9dc0cbc877d66b\">b1f643f</a>: Fix camera\n- <a href=\"https://github.com/Ridermansb/face-ai/commit/ca222e3f246f7a6f8388821ce3c35041a2e32ad9\">ca222e3</a>: Fix access",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "github-anniversary-10",
+    "tier": 0,
+    "desc": "I joined GitHub 10 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-10.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/61c6a3e6bd4b01d06a3d22774d657090d5688449\">61c6a3e</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/61c6a3e6bd4b01d06a3d22774d657090d5688449\">61c6a3e</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/conversejs/converse.js/issues/2233\">#2233</a>: `notify_all_room_messages: true` it's not show notifications for group chat\n- <a href=\"https://github.com/maartenba/MvcSiteMapProvider/issues/200\">#200</a>: Problem in V4 - This feature is currently disabled, please enable section system.web/siteMap in the configuration file.\n- <a href=\"https://github.com/DefinitelyTyped/DefinitelyTyped/issues/6170\">#6170</a>: Missing require-context for Webpack\n- <a href=\"https://github.com/jestjs/jest/issues/1957\">#1957</a>: After install with yarn and execute npm t, TypeError: config[key].map is not a function\n- <a href=\"https://github.com/Unitech/pm2/issues/2964\">#2964</a>: Start process fail with `Process config loading failed`\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/w9jds/firebase-action/issues/43\">👀</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "summer-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Summer solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/vue-gmaps/commit/84fb0092cba93fca17db8dd12f5c80ed72624a58\">84fb009</a>\n- <a href=\"https://github.com/Ridermansb/vue-gmaps/commit/6a2d33027939f5d5fcc198cb7f5b0ae0b4fba534\">6a2d330</a>\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/9525a9bfb45e4c4a5480f00bcb47b66e0c4fab13\">9525a9b</a>\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/e212391385d8cced18bdf3f52aca0cf20416d586\">e212391</a>\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/6c2032f2fd7ccaf2dce2f58dcb3cdf43259a5837\">6c2032f</a>\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr/commit/1e1507aa7b98405062e68927ca1fb5b130cdd3d8\">1e1507a</a>",
+    "image": "https://my-badges.github.io/my-badges/summer-solstice-commits.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/take-nponto/commit/cbee85906f1d15114baf8ef7e56b6f28225ab8b0\">cbee859</a>\n- <a href=\"https://github.com/Ridermansb/take-nponto/commit/6928f55d4166416730eb9b2f498cc80ca1c78150\">6928f55</a>\n- <a href=\"https://github.com/Ridermansb/take-nponto/commit/3c0da4b913a099971f4ddbc607338197afc2fae1\">3c0da4b</a>\n- <a href=\"https://github.com/Ridermansb/take-nponto/commit/517b63d0a696903a9d48b02e430121a49a21e258\">517b63d</a>\n- <a href=\"https://github.com/Ridermansb/take-nponto/commit/096e3ade0cb607d3173d1270ec767b385e78e387\">096e3ad</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "st-patricks-day",
+    "tier": 0,
+    "desc": "I committed on St. Patrick's Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/linkFunction/commit/0ee63567d1d6fe08e6443ce4c0e7a09e11e3e17c\">0ee6356</a>",
+    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
+  },
+  {
+    "id": "star-gazer",
+    "tier": 0,
+    "desc": "I'm a star gazer!",
+    "body": "I've starred over 1000 repositories!",
+    "image": "https://my-badges.github.io/my-badges/star-gazer.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 9 my own repositories.",
+    "body": "- <a href=\"https://github.com/Ridermansb/try_git\">Ridermansb/try_git</a>\n- <a href=\"https://github.com/Ridermansb/stamplayChat\">Ridermansb/stamplayChat</a>\n- <a href=\"https://github.com/Ridermansb/vue-gmaps\">Ridermansb/vue-gmaps</a>\n- <a href=\"https://github.com/Ridermansb/blockly-shell\">Ridermansb/blockly-shell</a>\n- <a href=\"https://github.com/Ridermansb/front-end-interview-handbook\">Ridermansb/front-end-interview-handbook</a>\n- <a href=\"https://github.com/Ridermansb/push-notification-when-webhook\">Ridermansb/push-notification-when-webhook</a>\n- <a href=\"https://github.com/Ridermansb/files.macro\">Ridermansb/files.macro</a>\n- <a href=\"https://github.com/Ridermansb/react-firebase-ssr\">Ridermansb/react-firebase-ssr</a>\n- <a href=\"https://github.com/Ridermansb/pwa-uikit-template\">Ridermansb/pwa-uikit-template</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/Ridermansb/vue-gmaps\">Ridermansb/vue-gmaps: ★117</a>\n* <a href=\"https://github.com/Ridermansb/blockly-shell\">Ridermansb/blockly-shell: ★15</a>\n* <a href=\"https://github.com/Ridermansb/files.macro\">Ridermansb/files.macro: ★12</a>\n* <a href=\"https://github.com/Ridermansb/react-firebase-ssr\">Ridermansb/react-firebase-ssr: ★9</a>\n* <a href=\"https://github.com/Ridermansb/evalbox\">Ridermansb/evalbox: ★4</a>\n* <a href=\"https://github.com/Ridermansb/isomorphic-library\">Ridermansb/isomorphic-library: ★3</a>\n* <a href=\"https://github.com/Ridermansb/push-notification-when-webhook\">Ridermansb/push-notification-when-webhook: ★2</a>\n* <a href=\"https://github.com/Ridermansb/linkFunction\">Ridermansb/linkFunction: ★2</a>\n* <a href=\"https://github.com/Ridermansb/pwa-uikit-template\">Ridermansb/pwa-uikit-template: ★2</a>\n* <a href=\"https://github.com/Ridermansb/try_git\">Ridermansb/try_git: ★1</a>\n* <a href=\"https://github.com/Ridermansb/wox.skype\">Ridermansb/wox.skype: ★1</a>\n* <a href=\"https://github.com/Ridermansb/listfy\">Ridermansb/listfy: ★1</a>\n* <a href=\"https://github.com/Ridermansb/diigo-extools\">Ridermansb/diigo-extools: ★1</a>\n* <a href=\"https://github.com/Ridermansb/stamplayChat\">Ridermansb/stamplayChat: ★1</a>\n* <a href=\"https://github.com/Ridermansb/dynamic-app-version-update\">Ridermansb/dynamic-app-version-update: ★1</a>\n* <a href=\"https://github.com/Ridermansb/front-end-interview-handbook\">Ridermansb/front-end-interview-handbook: ★1</a>\n* <a href=\"https://github.com/Ridermansb/til\">Ridermansb/til: ★1</a>\n* <a href=\"https://github.com/Ridermansb/storybook-addon-formik\">Ridermansb/storybook-addon-formik: ★1</a>\n* <a href=\"https://github.com/Ridermansb/daily-ai-challenge\">Ridermansb/daily-ai-challenge: ★1</a>\n* <a href=\"https://github.com/Ridermansb/obsidian-github-embeds\">Ridermansb/obsidian-github-embeds: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/vuejs/vue/issues/1194#issuecomment-252394767\">30 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/til/commit/758b8bb4e028d13cd1a35a1e28adfa0768eecd99\">758b8bb</a>\n- <a href=\"https://github.com/Ridermansb/til/commit/ce444058ffaec355bc288bbafb7c8419cd2326f5\">ce44405</a>\n- <a href=\"https://github.com/Ridermansb/til/commit/3b52ef82f96b16125978b2014f3f5e03ad5fbf70\">3b52ef8</a>\n- <a href=\"https://github.com/Ridermansb/mobx-todo/commit/64d47227b01df2612bc58b9a78895b6a93d250ce\">64d4722</a>\n- <a href=\"https://github.com/Ridermansb/mobx-todo/commit/daa6ecf3a6fdac0457f811761fb1e492a0dc262f\">daa6ecf</a>\n- <a href=\"https://github.com/Ridermansb/climate_changes_presentation/commit/e8f65bef3802e5a5ba6b070780db88cc4f2fe9ff\">e8f65be</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/til/commit/d614877916e8bd5d747c34a9187b361c2319e211\">d614877</a>\n- <a href=\"https://github.com/Ridermansb/til/commit/21cc689bd6dbd8fdde6d9b9fbbec62fa5ff81e2c\">21cc689</a>\n- <a href=\"https://github.com/Ridermansb/til/commit/e0a66c6b9491c1203582f2432eb2b50c55ca2171\">e0a66c6</a>\n- <a href=\"https://github.com/Ridermansb/til/commit/fd54f63546a48f1c3ca805a44b1ce17b1353e79b\">fd54f63</a>\n- <a href=\"https://github.com/Ridermansb/til/commit/4d3609e0d68ea380668b9ac0f45c7a9392fa4755\">4d3609e</a>\n- <a href=\"https://github.com/Ridermansb/til/commit/a3fd70006092b3e25c989af37b89f576983816eb\">a3fd700</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/ridermansb/commit/e430a65a8de61f46fcdb12a3a6c1c58d455a7ccb\">e430a65</a>\n- <a href=\"https://github.com/Ridermansb/obsidian-github-embeds/commit/63aa7b59f8c1944b853996169fce17ed9678f2fa\">63aa7b5</a>\n- <a href=\"https://github.com/Ridermansb/ridermansbdev-odoo/commit/c181c2abcdcb18d02b2c0a0f9b06e211adeffe6c\">c181c2a</a>\n- <a href=\"https://github.com/Ridermansb/ridermansbdev-odoo/commit/d410ed2923f94bcc9dd49ec66c2b02445a1774a0\">d410ed2</a>\n- <a href=\"https://github.com/Ridermansb/daily-ai-challenge/commit/752fc264ccb780e2af83737893faccdd95176c6e\">752fc26</a>\n- <a href=\"https://github.com/Ridermansb/daily-ai-challenge/commit/21df8c05595a45b715de094cb2627b6779c476f3\">21df8c0</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Ridermansb/linkFunction/commit/4b3cf87298201f0ad6a4dd91aa1bd2c6bc7dbd1d\">4b3cf87</a>\n- <a href=\"https://github.com/Ridermansb/vue-gmaps/commit/95567100bacbe940a67ce1183caf340124e962a4\">9556710</a>\n- <a href=\"https://github.com/Ridermansb/wox.skype/commit/97a5b0e6cf0415e2f33cb010c8597fb119d6d294\">97a5b0e</a>\n- <a href=\"https://github.com/Ridermansb/wox.skype/commit/c283a00dac73cd9b7a33bc43f71d8c0d42b10f13\">c283a00</a>\n- <a href=\"https://github.com/Ridermansb/wox.skype/commit/03917196a2f28d1ef47e2efe729236d849381e77\">0391719</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
