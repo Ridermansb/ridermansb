@@ -1,0 +1,2 @@
+name: GET testBasket
+url: https://${PANTRY_BASE_URL}/$PANTRY_KEY/basket/testBasket

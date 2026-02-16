@@ -1,0 +1,9 @@
+name: POST testBasket
+method: POST
+url: https://${PANTRY_BASE_URL}/$PANTRY_KEY/basket/testBasket
+body:
+  content: '{ "key": "value changed" }'
+  content_type: application/json
+headers:
+- name: Content-Type
+  value: application/json
