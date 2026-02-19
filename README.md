@@ -37,7 +37,9 @@
 <!-- my-badges end -->
 
 [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) ![NPM Downloads](https://img.shields.io/npm/dm/ridermansb)
-[![Publish Node.js Package](https://github.com/Ridermansb/ridermansb/actions/workflows/npmpublish.yml/badge.svg)](https://github.com/Ridermansb/ridermansb/actions/workflows/npmpublish.yml) [![wakatime](https://wakatime.com/badge/user/de65bb6a-656d-4719-97a5-9ed3c5797ec7.svg)](https://wakatime.com/@de65bb6a-656d-4719-97a5-9ed3c5797ec7)
+[![Publish Node.js Package](https://github.com/Ridermansb/ridermansb/actions/workflows/npmpublish.yml/badge.svg)](https://github.com/Ridermansb/ridermansb/actions/workflows/npmpublish.yml)   
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,vscode,vitest,vite,vercel,ts,sentry,react,postman,pnpm,obsidian,nodejs,mongodb,jest,ai,graphql,gitlab,githubactions,github,git,firebase,express,docker)](https://skillicons.dev)
 
 <h2>It's me, @ridermansb!</h2>
 <p><em>Staff Software Enginner</br>
@@ -68,17 +70,5 @@ npx ridermansb
 ```
 
 <img alt="screenshot" src="https://github.com/Ridermansb/ridermansb/blob/master/Screen%20Shot.png?raw=true" />
-
-**Skills:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
-![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=ridermansb&show_icons=true&hide_border=true)
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridermansb&layout=compact&langs_count=8"/>
 
 <!-- https://getpantry.cloud/ for data store -->
