@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/Ridermansb/vue-gmaps">Ridermansb/vue-gmaps: ★117</a>
+* <a href="https://github.com/Ridermansb/vue-gmaps">Ridermansb/vue-gmaps: ★116</a>
 * <a href="https://github.com/Ridermansb/blockly-shell">Ridermansb/blockly-shell: ★15</a>
 * <a href="https://github.com/Ridermansb/files.macro">Ridermansb/files.macro: ★12</a>
 * <a href="https://github.com/Ridermansb/react-firebase-ssr">Ridermansb/react-firebase-ssr: ★9</a>
