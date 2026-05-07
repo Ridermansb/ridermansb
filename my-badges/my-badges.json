@@ -154,13 +154,6 @@
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "self-upvote",
     "tier": 1,
     "desc": "I liked my own comment so much that I upvoted it.",
@@ -250,5 +243,12 @@
     "desc": "I joined GitHub 15 years ago.",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/github-anniversary-15.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
