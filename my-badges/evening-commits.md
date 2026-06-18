@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Ridermansb/ridermansb/commit/e430a65a8de61f46fcdb12a3a6c1c58d455a7ccb">e430a65</a>
-- <a href="https://github.com/Ridermansb/obsidian-github-embeds/commit/63aa7b59f8c1944b853996169fce17ed9678f2fa">63aa7b5</a>
-- <a href="https://github.com/Ridermansb/ridermansbdev-odoo/commit/c181c2abcdcb18d02b2c0a0f9b06e211adeffe6c">c181c2a</a>
-- <a href="https://github.com/Ridermansb/ridermansbdev-odoo/commit/d410ed2923f94bcc9dd49ec66c2b02445a1774a0">d410ed2</a>
-- <a href="https://github.com/Ridermansb/daily-ai-challenge/commit/752fc264ccb780e2af83737893faccdd95176c6e">752fc26</a>
-- <a href="https://github.com/Ridermansb/daily-ai-challenge/commit/21df8c05595a45b715de094cb2627b6779c476f3">21df8c0</a>
+- <a href="https://github.com/Ridermansb/Capture-Website-to-TaskNotes/commit/984de28e2981908e1938adac23c56eb8e68a201e">984de28</a>
+- <a href="https://github.com/Ridermansb/Capture-Website-to-TaskNotes/commit/3372ba43f4eda2a2146825bc07ab120ae8eca344">3372ba4</a>
+- <a href="https://github.com/Ridermansb/Capture-Website-to-TaskNotes/commit/1af2acca5b5739380f4dcf9099b0fd1851b50e04">1af2acc</a>
+- <a href="https://github.com/Ridermansb/Capture-Website-to-TaskNotes/commit/93a49b3f08283bf683a25871654ae6e0856a0fe3">93a49b3</a>
+- <a href="https://github.com/Ridermansb/Capture-Website-to-TaskNotes/commit/4567a02b31a78009093baa655710e93fc8489fa9">4567a02</a>
+- <a href="https://github.com/Ridermansb/Capture-Website-to-TaskNotes/commit/dda2b53e4c5dc69f360be1f2e3867275547009eb">dda2b53</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
