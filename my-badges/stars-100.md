@@ -11,6 +11,7 @@ Repos:
 * <a href="https://github.com/Ridermansb/evalbox">Ridermansb/evalbox: ★4</a>
 * <a href="https://github.com/Ridermansb/isomorphic-library">Ridermansb/isomorphic-library: ★3</a>
 * <a href="https://github.com/Ridermansb/push-notification-when-webhook">Ridermansb/push-notification-when-webhook: ★2</a>
+* <a href="https://github.com/Ridermansb/til">Ridermansb/til: ★2</a>
 * <a href="https://github.com/Ridermansb/linkFunction">Ridermansb/linkFunction: ★2</a>
 * <a href="https://github.com/Ridermansb/pwa-uikit-template">Ridermansb/pwa-uikit-template: ★2</a>
 * <a href="https://github.com/Ridermansb/obsidian-github-embeds">Ridermansb/obsidian-github-embeds: ★2</a>
@@ -23,7 +24,6 @@ Repos:
 * <a href="https://github.com/Ridermansb/dynamic-app-version-update">Ridermansb/dynamic-app-version-update: ★1</a>
 * <a href="https://github.com/Ridermansb/front-end-interview-handbook">Ridermansb/front-end-interview-handbook: ★1</a>
 * <a href="https://github.com/Ridermansb/awesome-css-frameworks">Ridermansb/awesome-css-frameworks: ★1</a>
-* <a href="https://github.com/Ridermansb/til">Ridermansb/til: ★1</a>
 * <a href="https://github.com/Ridermansb/storybook-addon-formik">Ridermansb/storybook-addon-formik: ★1</a>
 * <a href="https://github.com/Ridermansb/github-activity-readme">Ridermansb/github-activity-readme: ★1</a>
 * <a href="https://github.com/Ridermansb/mantine-website">Ridermansb/mantine-website: ★1</a>
